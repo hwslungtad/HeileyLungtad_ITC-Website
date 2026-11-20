@@ -1,0 +1,10 @@
+{
+  "description": "A project workspace cleanup tool that checks whether configuration and guidance files are needed to build and run an application, then removes unneeded files.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
